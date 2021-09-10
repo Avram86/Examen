@@ -8,7 +8,34 @@ a.navbar-brand {
 }
 
 /* Provide sufficient contrast against white background */
-navbar-nav {
+#tab-controller-container-week{
+    background-color:lightcoral !important;
+}
+#tab-controller-container-month {
+    background-color: lightcoral!important;
+}
+#tab-controller-container-agenda {
+    background-color: lightcoral!important;
+}
+#calendarListButton1 {
+    background-color: coral!important;
+}
+#navBack1 {
+    background-color: coral!important;
+}
+#navForward1 {
+    background-color: coral!important;
+}
+
+td.st-dtitle.st-dtitle-today {
+    background-color: coral !important;
+}
+
+.st-bg-today, .st-bg-td-first {
+    background-color: blanchedalmond !important;
+}
+
+.navbar {
     background-color: blanchedalmond !important;
 }
 
